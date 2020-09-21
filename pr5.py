@@ -2,8 +2,6 @@ import plotly.graph_objects as go
 
 a=True
 b=False
-c=True
-d=False
 
 and1=a and a
 and2=b and a
